@@ -1,4 +1,4 @@
-package com.german.labo4.videojuego;
+package com.poo.templatelabo;
 
 public interface IDescribible {
     String getDescripcion();

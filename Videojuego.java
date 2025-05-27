@@ -1,4 +1,4 @@
-package com.german.labo4.videojuego;
+package com.poo.templatelabo;
 
 public class Videojuego implements IDescribible {
 
